@@ -1,0 +1,5 @@
+{
+  "name": "QuickSummary EDU",
+  "description": "An application for students and teachers to quickly summarize academic content from PDF files or text. It provides a concise overview, key points, important terms, and academic insights.",
+  "requestFramePermissions": []
+}
